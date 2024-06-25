@@ -2,8 +2,8 @@
 
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Fabio 
-I'm student MBA Data Science and Analytics looking for opportunities and collabaration in projects related to data science and Analytics.
-- 🌱 I’m currently learning Python, SQL, Power BI, Excel - Dashboard and Statistics.
-- 🤝 I’m looking to collaborate on data science and related areas. 
+Graduated in Financial Management from UNICSUL and post-graduated in Data Science and Analytics from USP-ESALQ. I have advanced English communication skills and basic knowledge of Spanish.
 
- [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@fabio.lfeitosa)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabio-l-feitosa/) 
+With a solid professional background in IT support, the financial market, and business development, I specialize in data analysis, metrics monitoring, and applying statistics for strategic decisions. I utilize tools like Excel, Power BI, SQL, Visual Studio, and Python to enhance my work. 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabio-l-feitosa/) 
